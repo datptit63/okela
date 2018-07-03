@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /bitrix/
+Disallow: /search/
+Allow: /search/map.php
+Disallow: /cau-hinh/
+Disallow: /flash/
+Disallow: /iframe/
+Disallow: /lib/
+
+
